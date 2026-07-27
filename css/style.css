@@ -1715,8 +1715,7 @@ button {
   }
 
   .hero-content {
-    position: relative;
-    z-index: 2;
+    position: static;
     pointer-events: auto;
     max-width: 100%;
     padding: 0;
@@ -1761,7 +1760,7 @@ button {
     position: absolute;
     top: 16px;
     left: 16px;
-    z-index: 10;
+    z-index: 30;
     padding: 6px 14px;
     font-size: 0.85rem;
     margin-bottom: 0;
