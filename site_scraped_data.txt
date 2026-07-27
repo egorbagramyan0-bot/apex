@@ -1,0 +1,305 @@
+=== PAGE: INDEX ===
+Главная
+{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "Site1",
+		"logo": "https://assets.nicepagecdn.com/ad084680/6450706/images/photo_2025-02-11_20-24-02.jpg"
+}
+HREF:#
+HREF:/
+Главная
+HREF:/Информация.html
+Информация
+HREF:/Контакты.html
+Контакты
+HREF:/Работы.html
+Работы
+HREF:/Цены.html
+Цены
+HREF:/
+Главная
+HREF:/Информация.html
+Информация
+HREF:/Контакты.html
+Контакты
+HREF:/Работы.html
+Работы
+HREF:/Цены.html
+Цены
+@media (max-width: 939px) {
+                    [data-responsive-from="MD"] .u-nav-container {
+                        display: none;
+                    }
+                    [data-responsive-from="MD"] .menu-collapse {
+                        display: block;
+                    }
+                }
+HREF:#
+Апекс
+Стоматология
+Южный федеральный округ, Ростовская область, городской окуруг Ростова-на-Дону, Ростов-на-Дону, Таганрогская 111/2
+Стоматология "Апекс"
+Cтоматология для взрослых на профессиональном оборудовании
+Лицензии стоматологии
+График работы
+Понедельник ​- с 8:30 до 18:30
+Вторник - с 8:30 до 18:30
+Среда - с 8:30 до 18:30
+Четверг - с 8:30 до 18:30
+Пятница - с 8:30 до 18:30
+Суббота - с 8:30 до 18:30
+Выходной - Воскресенье
+HREF:/Информация.html
+Подробнее
+HREF:tel:+7(995)758-96-24
+записаться
+Наши услуги
+Хирургия
+Лечение
+Имплантация
+Удаление зубов
+Удаление зуба мудрости
+Удаление корня зуба
+Костная пластика
+Синус-лифтинг".
+NeoBiotech/Osstem
+Any ridge
+Shtraumann
+Alpha Bio
+Лечение кариеса
+Лечение пульпита
+Лечение пародонтита
+Исправление прикуса
+Эстетическая стоматология
+Установка элайнерами
+Лечение элайнером
+Пластинки для зубов
+Керамические виниры
+Виниры на зубы
+Отбеливание зубов
+Гигиена полости рта
+Протезир
+ование
+Чистка зубов Air Flow
+Ультразвуковая чистка
+Профессиональная гигиена
+\полости рта
+комбинированным методом
+Зубные коронки
+Керамические коронки
+Несъёмные зубые протезы
+Съёмные зубные протезы
+Временные зубные протезы
+Протезирование на имплантах
+Записаться на прием в стоматологическую клинику Апекс можно
+по телефону и WhatsApp
++7(995)758-96-24
+HREF:#
+HREF:tel:+7(995)758-96-24
+Записаться на прием в стоматологическую клинику Апекс можно по телефону и WhatsApp +7(995)758-96-24
+Контакты
+ООО "Апекс"
+Южный федеральный округ,
+Ростовская область,
+городской окуруг
+Ростова-на-Дону,
+Ростов-на-Дону,
+Таганрогская 111/2
+тел: +7(995)758-96-24
+WhatsApp:
++7(995)758-96-24
+Услуги
+Лечение
+Хирургия
+Имплантация
+Исправление прикуса
+Эстетическая стоматология
+Протезирование
+Гигиена полости рта
+Апекс
+Стоматология
+This site was created with the
+HREF:https://nicepage.com/
+Nicepage
+--- IMAGES ---
+https://assets.nicepagecdn.com/ad084680/6450706/images/photo_2025-02-11_20-24-02.jpg | None
+https://assets.nicepagecdn.com/ad084680/6450706/images/diler.jpeg | 
+https://assets.nicepagecdn.com/ad084680/6450706/images/photo_2025-02-13_20-07-36.jpg | None
+
+============================================================
+=== PAGE: Информация.html ===
+Информация
+{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "Site1",
+		"logo": "https://assets.nicepagecdn.com/ad084680/6450706/images/photo_2025-02-11_20-24-02.jpg"
+}
+HREF:#
+HREF:/
+Главная
+HREF:/Информация.html
+Информация
+HREF:/Контакты.html
+Контакты
+HREF:/Работы.html
+Работы
+HREF:/Цены.html
+Цены
+HREF:/
+Главная
+HREF:/Информация.html
+Информация
+HREF:/Контакты.html
+Контакты
+HREF:/Работы.html
+Работы
+HREF:/Цены.html
+Цены
+@media (max-width: 939px) {
+                    [data-responsive-from="MD"] .u-nav-container {
+                        display: none;
+                    }
+                    [data-responsive-from="MD"] .menu-collapse {
+                        display: block;
+                    }
+                }
+HREF:#
+Апекс
+Стоматология
+Южный федеральный округ, Ростовская область, городской окуруг Ростова-на-Дону, Ростов-на-Дону, Таганрогская 111/2
+HREF:#
+HREF:tel:+7(995)758-96-24
+Записаться на прием в стоматологическую клинику Апекс можно по телефону и WhatsApp +7(995)758-96-24
+Контакты
+ООО "Апекс"
+Южный федеральный округ,
+Ростовская область,
+городской окуруг
+Ростова-на-Дону,
+Ростов-на-Дону,
+Таганрогская 111/2
+тел: +7(995)758-96-24
+WhatsApp:
++7(995)758-96-24
+Услуги
+Лечение
+Хирургия
+Имплантация
+Исправление прикуса
+Эстетическая стоматология
+Протезирование
+Гигиена полости рта
+Апекс
+Стоматология
+This site was created with the
+HREF:https://nicepage.com/
+Nicepage
+--- IMAGES ---
+https://assets.nicepagecdn.com/ad084680/6450706/images/photo_2025-02-11_20-24-02.jpg | None
+https://assets.nicepagecdn.com/ad084680/6450706/images/photo_2025-02-14_20-30-20.jpg | None
+https://assets.nicepagecdn.com/ad084680/6450706/images/photo_2025-02-14_20-32-39.jpg | None
+https://assets.nicepagecdn.com/ad084680/6450706/images/photo_2025-02-17_13-21-24.jpg | None
+https://assets.nicepagecdn.com/ad084680/6450706/images/photo_2025-02-14_20-30-29.jpg | None
+https://assets.nicepagecdn.com/ad084680/6450706/images/photo_2025-02-14_20-30-38.jpg | None
+https://assets.nicepagecdn.com/ad084680/6450706/images/photo_2025-02-14_20-31-42.jpg | None
+https://assets.nicepagecdn.com/ad084680/6450706/images/photo_2025-02-14_20-31-31.jpg | 
+https://assets.nicepagecdn.com/ad084680/6450706/images/photo_2025-02-14_20-32-31.jpg | 
+
+============================================================
+=== PAGE: Контакты.html ===
+Контакты
+{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "Site1",
+		"logo": "https://assets.nicepagecdn.com/ad084680/6450706/images/photo_2025-02-11_20-24-02.jpg"
+}
+HREF:#
+HREF:/
+Главная
+HREF:/Информация.html
+Информация
+HREF:/Контакты.html
+Контакты
+HREF:/Работы.html
+Работы
+HREF:/Цены.html
+Цены
+HREF:/
+Главная
+HREF:/Информация.html
+Информация
+HREF:/Контакты.html
+Контакты
+HREF:/Работы.html
+Работы
+HREF:/Цены.html
+Цены
+@media (max-width: 939px) {
+                    [data-responsive-from="MD"] .u-nav-container {
+                        display: none;
+                    }
+                    [data-responsive-from="MD"] .menu-collapse {
+                        display: block;
+                    }
+                }
+HREF:#
+Апекс
+Стоматология
+Южный федеральный округ, Ростовская область, городской окуруг Ростова-на-Дону, Ростов-на-Дону, Таганрогская 111/2
+Главврач - Кочур Фатима Шамильевна
+Стаж:
+Опыт работы - 30 лет
+.
+HREF:#
+HREF:tel:+7(995)758-96-24
+Записаться на прием в стоматологическую клинику Апекс можно по телефону и WhatsApp +7(995)758-96-24
+Контакты
+ООО "Апекс"
+Южный федеральный округ,
+Ростовская область,
+городской окуруг
+Ростова-на-Дону,
+Ростов-на-Дону,
+Таганрогская 111/2
+тел: +7(995)758-96-24
+WhatsApp:
++7(995)758-96-24
+Услуги
+Лечение
+Хирургия
+Имплантация
+Исправление прикуса
+Эстетическая стоматология
+Протезирование
+Гигиена полости рта
+Апекс
+Стоматология
+This site was created with the
+HREF:https://nicepage.com/
+Nicepage
+--- IMAGES ---
+https://assets.nicepagecdn.com/ad084680/6450706/images/photo_2025-02-11_20-24-02.jpg | None
+https://assets.nicepagecdn.com/ad084680/6450706/images/photo_2025-02-14_20-29-42.jpg | None
+https://assets.nicepagecdn.com/ad084680/6450706/images/photo_2025-02-14_20-29-49.jpg | None
+https://assets.nicepagecdn.com/ad084680/6450706/images/photo_2025-02-14_20-30-47.jpg | None
+https://assets.nicepagecdn.com/ad084680/6450706/images/photo_2025-02-14_20-30-10.jpg | None
+https://assets.nicepagecdn.com/ad084680/6450706/images/photo_2025-02-14_20-31-12.jpg | None
+https://assets.nicepagecdn.com/ad084680/6450706/images/photo_2025-02-14_20-32-03.jpg | None
+https://assets.nicepagecdn.com/ad084680/6450706/images/photo_2025-02-14_20-33-17.jpg | 
+https://assets.nicepagecdn.com/ad084680/6450706/images/photo_2025-02-14_20-33-02.jpg | 
+https://assets.nicepagecdn.com/ad084680/6450706/images/photo_2025-02-14_20-32-121.jpg | 
+https://assets.nicepagecdn.com/ad084680/6450706/images/photo_2025-02-14_20-31-56.jpg | 
+https://assets.nicepagecdn.com/ad084680/6450706/images/photo_2025-02-14_20-32-54.jpg | 
+https://assets.nicepagecdn.com/ad084680/6450706/images/photo_2025-03-13_13-26-44.jpg | 
+https://assets.nicepagecdn.com/ad084680/6450706/images/photo_2025-03-13_13-26-55.jpg | 
+https://assets.nicepagecdn.com/ad084680/6450706/images/photo_2025-03-13_13-27-35.jpg | 
+
+============================================================
+=== PAGE: Главная.html ===
+
+--- IMAGES ---
+
+============================================================
