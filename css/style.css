@@ -58,6 +58,9 @@ html {
   scroll-behavior: smooth;
   font-size: 16px;
   -webkit-text-size-adjust: 100%;
+  overflow-x: hidden;
+  width: 100%;
+  max-width: 100%;
 }
 
 body {
@@ -67,6 +70,8 @@ body {
   line-height: 1.6;
   font-weight: 400;
   overflow-x: hidden;
+  width: 100%;
+  max-width: 100%;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -1598,6 +1603,16 @@ button {
     --header-height: 76px;
   }
 
+  .container {
+    padding: 0 20px;
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .header-actions .btn-primary {
+    display: none !important;
+  }
+
   .header-phone span {
     display: none;
   }
@@ -1609,14 +1624,14 @@ button {
   }
 
   .logo-img {
-    height: 54px;
-    margin-top: 0;
-    margin-bottom: 0;
+    height: 48px;
+    margin: 0;
   }
 
   .hero-banner {
-    min-height: 460px;
+    min-height: 500px;
     border-radius: var(--radius-md);
+    width: 100%;
   }
 
   .hero-content {
@@ -1646,14 +1661,12 @@ button {
 
   .container {
     padding: 0 16px;
+    width: 100%;
+    max-width: 100%;
   }
 
   .header-actions {
     gap: 12px;
-  }
-
-  .header-actions .btn-primary {
-    display: none !important;
   }
 
   .logo-img {
@@ -1665,17 +1678,21 @@ button {
   .hero {
     padding-top: var(--header-height);
     padding-bottom: 24px;
+    width: 100%;
+    overflow: hidden;
   }
 
   .hero .container {
     padding: 0;
+    width: 100%;
+    max-width: 100%;
   }
 
   .hero-banner {
     position: relative;
     width: 100%;
-    height: 680px;
-    min-height: 680px;
+    height: min(680px, 85vh);
+    min-height: 520px;
     border-radius: 0;
     overflow: hidden;
     background: none;
@@ -1717,12 +1734,13 @@ button {
   .hero-content {
     position: static;
     pointer-events: auto;
+    width: 100%;
     max-width: 100%;
     padding: 0;
   }
 
   .hero-title {
-    font-size: 1.7rem;
+    font-size: clamp(1.45rem, 5.5vw, 1.85rem);
     line-height: 1.2;
     margin-bottom: 10px;
     color: #FFFFFF;
@@ -1730,7 +1748,7 @@ button {
   }
 
   .hero-subtitle {
-    font-size: 0.925rem;
+    font-size: clamp(0.85rem, 3.2vw, 0.95rem);
     line-height: 1.5;
     margin-bottom: 20px;
     color: rgba(255, 255, 255, 0.95);
@@ -1756,11 +1774,11 @@ button {
     backdrop-filter: blur(4px);
   }
 
-  .yandex-rating-badge {
-    position: absolute;
-    top: 16px;
-    left: 16px;
-    z-index: 30;
+  .hero-banner .yandex-rating-badge {
+    position: absolute !important;
+    top: 16px !important;
+    left: 16px !important;
+    z-index: 30 !important;
     padding: 6px 14px;
     font-size: 0.85rem;
     margin-bottom: 0;
@@ -1768,7 +1786,7 @@ button {
     backdrop-filter: blur(8px);
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
   }
-
+}
   .about-section,
   .services-section,
   .licenses-section,
