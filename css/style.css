@@ -1670,9 +1670,10 @@ button {
   }
 
   .logo-img {
-    height: 42px;
-    max-width: 160px;
-    margin: 0;
+    height: 84px !important;
+    max-width: 250px !important;
+    margin-top: -8px;
+    margin-bottom: -8px;
   }
 
   .hero {
