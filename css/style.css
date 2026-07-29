@@ -63,6 +63,12 @@ html {
   max-width: 100%;
 }
 
+section[id],
+div[id],
+.contacts-section {
+  scroll-margin-top: 150px !important;
+}
+
 body {
   font-family: var(--font-sans);
   background-color: var(--bg-main);
@@ -1063,6 +1069,7 @@ button {
 .contacts-section {
   padding: 110px 0;
   background-color: var(--bg-main);
+  scroll-margin-top: calc(var(--header-height) + 24px);
 }
 
 .contacts-layout {
@@ -1070,6 +1077,8 @@ button {
   grid-template-columns: 1fr 1.2fr 1fr;
   gap: 32px;
   align-items: stretch;
+  min-width: 0;
+  width: 100%;
 }
 
 .contacts-info-card,
@@ -1081,6 +1090,9 @@ button {
   box-shadow: var(--shadow-md);
   display: flex;
   flex-direction: column;
+  min-width: 0;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .contact-item {
@@ -1088,6 +1100,7 @@ button {
   align-items: flex-start;
   gap: 16px;
   margin-bottom: 24px;
+  min-width: 0;
 }
 
 .contact-icon {
@@ -1112,6 +1125,8 @@ button {
   font-weight: 500;
   color: var(--text-main);
   line-height: 1.4;
+  word-break: break-word;
+  overflow-wrap: anywhere;
 }
 
 .contact-val a:hover {
@@ -1125,6 +1140,9 @@ button {
   box-shadow: var(--shadow-md);
   min-height: 420px;
   height: 100%;
+  min-width: 0;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .map-iframe {
@@ -1787,13 +1805,35 @@ button {
     backdrop-filter: blur(8px);
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
   }
-}
+
   .about-section,
   .services-section,
   .licenses-section,
   .contacts-section,
   .dark-advantages-section {
-    padding: 52px 0;
+    padding: 48px 0;
+    scroll-margin-top: 140px;
+  }
+
+  .contacts-layout {
+    grid-template-columns: 1fr;
+    gap: 20px;
+    width: 100%;
+  }
+
+  .contacts-info-card,
+  .booking-form-card {
+    padding: 24px 20px;
+    border-radius: var(--radius-md);
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .map-container {
+    height: 340px;
+    min-height: 300px;
+    border-radius: var(--radius-md);
+    width: 100%;
   }
 
   .section-title {
@@ -1883,8 +1923,38 @@ button {
     font-size: 1.55rem;
   }
 
+  .contacts-section {
+    padding: 36px 0;
+  }
+
+  .contacts-info-card,
+  .booking-form-card {
+    padding: 20px 16px;
+  }
+
+  .contact-item {
+    gap: 12px;
+    margin-bottom: 18px;
+  }
+
+  .contact-icon {
+    width: 20px;
+    height: 20px;
+    margin-top: 2px;
+  }
+
+  .contact-label {
+    font-size: 0.7rem;
+    margin-bottom: 2px;
+  }
+
+  .contact-val {
+    font-size: 0.88rem;
+  }
+
   .map-container {
     height: 280px;
+    min-height: 260px;
   }
 }
 
